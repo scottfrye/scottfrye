@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... machine learning and deep neural networks applied to the stock market
 - 🌱 I’m currently learning ... the stock market
 - 💞️ I’m looking to collaborate on ... nothing at this time
-- 📫 How to reach me ... https://twitter.com/Scott_Frye
+- 📫 How to reach me ... https://twitter.com/Scott_Frye  https://www.threads.com/@scottf3095
 
 <!---
 scottfrye/scottfrye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
